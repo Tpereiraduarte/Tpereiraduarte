@@ -1,6 +1,6 @@
 ### Olá, eu sou o Thiago Pereira Duarte! 👨🏾‍💻
 
-- 🎓 Graduado em Análise e Desenvolvimento de Sistemas pelo [IFSP - Guarulhos](http://gru.ifsp.edu.br/)
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas pelo [Instituto Federal de Educação, Ciência e Tecnologia](http://gru.ifsp.edu.br/)
 - 🔭 Atualmente sou Analista de Sistemas na TOTVS – JuriTis. 
 
 ### ⚡ Foco nos estudos 📚️ 🤯️ 🔥

@@ -1,62 +1,21 @@
-# Olá, eu sou o Thiago Pereira Duarte! 👨🏾‍💻
+#### Olá, eu sou o Thiago Pereira Duarte! 👨🏾‍💻
 
-<br/>
-
- 🔭 Atualmente sou Analista de Sistemas na TOTVS – JuriTis. 
-
-### ⚡ Foco nos estudos 📚️ 🤯️ 🔥
-
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas pelo [IFSP - Guarulhos](http://gru.ifsp.edu.br/)
+- 🔭 Atualmente sou Analista de Sistemas na TOTVS – JuriTis. 
+<br>
 <br>
 
-## 📍️ I'm from São Paulo, Brazil ☕️ 🇧🇷️
-
-<br>
-<hr>
+#### ⚡ Foco nos estudos 📚️ 🤯️ 🔥
 <br>
 
-## Technologies 🧠
+### Contato:
+  <a href="mailto:tpereiraduarte@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=tpereiraduarte@gmail.com" /></a>
+  <a href="https://www.linkedin.com/in/thiago-duarte-dev/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-duarte-dev/" />
+  </a>
 
 <br>
-
-<div align="center">
-  
-<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/css3.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
-
-<img src="https://img.icons8.com/plasticine/48/000000/react.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/docker.png"/>
-
-<img src="https://img.icons8.com/ios-filled/50/000000/sql.png"/>
-
-<img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/git.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/linux.png"/>
-
-</div>
-<br>
-<hr>
-<br>
-
-## Contact 📲️
-
-<br>
-
-<div align="center"> 
-<a href="https://github.com/Tpereiraduarte">
-  <img src="https://img.icons8.com/material-sharp/48/000000/github.png"/>
-</a>
-<a href="https://www.linkedin.com/in/thiago-duarte-dev/">
-<img src="https://img.icons8.com/fluent/50/000000/linkedin.png"/>
-</a>
-</div>
 
 <br>
 <hr>
@@ -65,8 +24,17 @@
 ## Coding Activity 🚀️
 
 <br>
-<img width="600"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tpereiraduarte&layout=compact&theme=dracula"
+<center>
+<table>
+  <tr>
+    <td>
+      <img width="420px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tpereiraduarte&layout=compact&theme=dracula"
     />
-
-<img width="600" src="https://github-readme-stats.vercel.app/api?username=Tpereiraduarte&show_icons=true&theme=dracula"
+    </td>
+    <td>
+      <img width="490px" src="https://github-readme-stats.vercel.app/api?username=Tpereiraduarte&show_icons=true&theme=dracula"
     />
+    </td>
+  </tr>     
+</table>
+</center>

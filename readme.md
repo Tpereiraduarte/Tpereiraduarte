@@ -1,17 +1,14 @@
-# Olá, eu sou o Thiago Pereira Duarte! 👨🏾‍💻
-
+ Olá, eu sou o Thiago Pereira Duarte! 👨🏾‍💻
 <br/>
 
- 🔭 Atualmente sou Analista Júnior na TOTVS – JuriTis. 
+ 🔭 Atualmente sou Analista de Sistemas na TOTVS – JuriTis. 
 
 ### ⚡ Foco nos estudos 📚️ 🤯️ 🔥
 
 <br>
 
-## 📍️ I'm from São Paulo, Brazil ☕️ 🇧🇷️
+# 📍️ I'm from São Paulo, Brazil ☕️ 🇧🇷️
 
-
-<br>
 <hr>
 <br>
 

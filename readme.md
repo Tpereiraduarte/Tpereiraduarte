@@ -1,12 +1,9 @@
-#### Olá, eu sou o Thiago Pereira Duarte! 👨🏾‍💻
+### Olá, eu sou o Thiago Pereira Duarte! 👨🏾‍💻
 
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas pelo [IFSP - Guarulhos](http://gru.ifsp.edu.br/)
 - 🔭 Atualmente sou Analista de Sistemas na TOTVS – JuriTis. 
-<br>
-<br>
 
-#### ⚡ Foco nos estudos 📚️ 🤯️ 🔥
-<br>
+### ⚡ Foco nos estudos 📚️ 🤯️ 🔥
 
 ### Contato:
   <a href="mailto:tpereiraduarte@gmail.com" alt="Gmail">
@@ -15,15 +12,8 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-duarte-dev/" />
   </a>
 
-<br>
+### Coding Activity 🚀️
 
-<br>
-<hr>
-<br>
-
-## Coding Activity 🚀️
-
-<br>
 <center>
 <table>
   <tr>

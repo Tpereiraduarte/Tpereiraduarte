@@ -1,14 +1,14 @@
-## Olá, eu sou o Thiago Pereira Duarte! 👨🏾‍💻
+# Olá, eu sou o Thiago Pereira Duarte! 👨🏾‍💻
 
 <br/>
 
-### 🔭 Atualmente sou Analista Júnior na TOTVS – JuriTis onde atuo com desenvolvimento em C#, Javascript e banco de dados SQLSERVER e Oracle. 🔥
+ 🔭 Atualmente sou Analista Júnior na TOTVS – JuriTis. 
 
-### ⚡ Foco nos estudos 📚️ 🤯️
+### ⚡ Foco nos estudos 📚️ 🤯️ 🔥
 
 <br>
 
-### 📍️ I'm from São Paulo, Brazil ☕️ 🇧🇷️
+## 📍️ I'm from São Paulo, Brazil ☕️ 🇧🇷️
 
 
 <br>
